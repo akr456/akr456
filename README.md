@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently a Student<br>Mastering MERN Stack<br>Interested in Data Science and Machine Learning<br>Know basics About Blockchain 
+contact me: raikarashish07@gmail.com<br>
+
+I'm currently a Student<br>Mastering MERN Stack<br>Interested in Data Science and Machine Learning<br>
 
 
 ## 🌐 Socials:
